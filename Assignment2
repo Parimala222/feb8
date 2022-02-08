@@ -1,0 +1,7 @@
+# feb8
+km=float(input("enter the value"))
+cm=km*100000
+print(cm)
+Output
+Enter the value70
+7000000.0
